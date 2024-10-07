@@ -1,0 +1,1 @@
+#Q1 write a functon to ecaluate expression res=i*10 for all values between 0 to n
