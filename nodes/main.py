@@ -13,7 +13,7 @@ def calculate_distances(points):
         distance = math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2)
         distances.append(distance)
     return distances
-
+ 
 #distances between consecutive nodes
 distances = calculate_distances(points)
 
